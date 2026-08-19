@@ -1,4 +1,6 @@
-Code repository for "Conformal Prediction Sets for Instance Segmentation."
+Code repository for:
+
+> Lu, Kerri, Dan M Kluger, Stephen Bates, and Sherrie Wang (2026). “Conformal Prediction Sets for Instance Segmentation”. In: *The Forty-Second Conference on Uncertainty in Artificial Intelligence.* https://arxiv.org/abs/2602.10045
 
 All data can be downloaded from: https://drive.google.com/drive/folders/1ggv4jHeTTUsmywf8WiO3Cay2AxGpRv13?usp=sharing
 
